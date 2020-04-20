@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <h1>Report</h1>
+    <ul>
+        {% if lastDigit %}
+        <li>Last character is a digit.</li>
+        {% else %}
+        <li>Digit is missing.</li>
+        {% endif %}
+        {% if isUpper %}
+        <li>Have an upper character.</li>
+        {% else %}
+        <li>Upper character is missing.</li>
+        {% endif %}
+        {% if isLower %}
+        <li>Have a lower character.</li>
+        {% else %}
+        <li>Lower character is missing.</li>
+        {% endif %}
+    </ul>
+
+
+</div>
+
+{% endblock %}
