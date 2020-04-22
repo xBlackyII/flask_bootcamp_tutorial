@@ -1,2 +1,14 @@
 .DS_Store
-requirements.txt
+data.sqlite
+migrations/**
+__pycache__/**
+
+10_Databases/migrations/alembic.ini
+10_Databases/migrations/env.py
+10_Databases/migrations/README
+10_Databases/migrations/script.py.mako
+10_Databases/migrations/__pycache__/env.cpython-37.pyc
+10_Databases/migrations/versions/f84c05d62319_added_breed_column.py
+10_Databases/migrations/versions/__pycache__/f84c05d62319_added_breed_column.cpython-37.pyc
+10_Databases/__pycache__/app.cpython-37.pyc
+10_Databases/__pycache__/app.cpython-37.pyc
