@@ -12,3 +12,11 @@ __pycache__/**
 10_Databases/migrations/versions/__pycache__/f84c05d62319_added_breed_column.cpython-37.pyc
 10_Databases/__pycache__/app.cpython-37.pyc
 10_Databases/__pycache__/app.cpython-37.pyc
+10_Relationships/__pycache__/models.cpython-37.pyc
+10_Relationships/migrations/alembic.ini
+10_Relationships/migrations/env.py
+10_Relationships/migrations/README
+10_Relationships/migrations/script.py.mako
+10_Relationships/migrations/__pycache__/env.cpython-37.pyc
+10_Relationships/migrations/versions/55717aa01e78_initial_migration.py
+10_Relationships/migrations/versions/__pycache__/55717aa01e78_initial_migration.cpython-37.pyc
