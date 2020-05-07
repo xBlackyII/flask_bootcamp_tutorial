@@ -42,3 +42,13 @@ __pycache__/**
 10_DatabasesInViewsRestructured/myproject/owners/__pycache__/views.cpython-37.pyc
 10_DatabasesInViewsRestructured/myproject/puppies/__pycache__/forms.cpython-37.pyc
 10_DatabasesInViewsRestructured/myproject/puppies/__pycache__/views.cpython-37.pyc
+12_UserAuthentication/FlaskLogin/__pycache__/app.cpython-37.pyc
+12_UserAuthentication/FlaskLogin/migrations/alembic.ini
+12_UserAuthentication/FlaskLogin/migrations/env.py
+12_UserAuthentication/FlaskLogin/migrations/script.py.mako
+12_UserAuthentication/FlaskLogin/migrations/__pycache__/env.cpython-37.pyc
+12_UserAuthentication/FlaskLogin/migrations/versions/7164b5578567_created_user_table.py
+12_UserAuthentication/FlaskLogin/migrations/versions/__pycache__/7164b5578567_created_user_table.cpython-37.pyc
+12_UserAuthentication/FlaskLogin/myproject/__pycache__/__init__.cpython-37.pyc
+12_UserAuthentication/FlaskLogin/myproject/__pycache__/forms.cpython-37.pyc
+12_UserAuthentication/FlaskLogin/myproject/__pycache__/models.cpython-37.pyc
