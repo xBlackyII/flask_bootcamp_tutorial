@@ -2,11 +2,12 @@
 
 {% block content %}
 <div class="jumbotron">
-    <h1>Did a puppy get adopted?</h1>
-    <p>If so: Please fill out their id to remove them from the database</p>
+    <h1>Add a new owner</h1>
+    <p>Add a new owner with the form below.</p>
 
     <form method="POST">
         {{form.hidden_tag()}}
+        {{form.name.label}} {{form.name()}}<br>
         {{form.id.label}} {{form.id}}
         {{form.submit()}}
     </form>

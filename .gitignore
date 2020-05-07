@@ -20,3 +20,12 @@ __pycache__/**
 10_Relationships/migrations/__pycache__/env.cpython-37.pyc
 10_Relationships/migrations/versions/55717aa01e78_initial_migration.py
 10_Relationships/migrations/versions/__pycache__/55717aa01e78_initial_migration.cpython-37.pyc
+10_DatabasesInViews/__pycache__/forms.cpython-37.pyc
+10_DatabasesInViews/__pycache__/adoptions_site.cpython-37.pyc
+10_DatabasesInViews/migrations/alembic.ini
+10_DatabasesInViews/migrations/__pycache__/env.cpython-37.pyc
+10_DatabasesInViews/migrations/script.py.mako
+10_DatabasesInViews/migrations/versions/65549b328769_new_tables.py
+10_DatabasesInViews/migrations/versions/aa22224077d9_add_new_table_owner.py
+10_DatabasesInViews/migrations/versions/__pycache__/65549b328769_new_tables.cpython-37.pyc
+10_DatabasesInViews/migrations/versions/__pycache__/aa22224077d9_add_new_table_owner.cpython-37.pyc
