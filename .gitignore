@@ -29,3 +29,16 @@ __pycache__/**
 10_DatabasesInViews/migrations/versions/aa22224077d9_add_new_table_owner.py
 10_DatabasesInViews/migrations/versions/__pycache__/65549b328769_new_tables.cpython-37.pyc
 10_DatabasesInViews/migrations/versions/__pycache__/aa22224077d9_add_new_table_owner.cpython-37.pyc
+10_DatabasesInViewsRestructured/__pycache__/app.cpython-37.pyc
+10_DatabasesInViewsRestructured/migrations/alembic.ini
+10_DatabasesInViewsRestructured/migrations/env.py
+10_DatabasesInViewsRestructured/migrations/script.py.mako
+10_DatabasesInViewsRestructured/migrations/__pycache__/env.cpython-37.pyc
+10_DatabasesInViewsRestructured/migrations/versions/f81cc38358b4_created_puppies_and_owners.py
+10_DatabasesInViewsRestructured/migrations/versions/__pycache__/f81cc38358b4_created_puppies_and_owners.cpython-37.pyc
+10_DatabasesInViewsRestructured/myproject/__pycache__/__init__.cpython-37.pyc
+10_DatabasesInViewsRestructured/myproject/__pycache__/models.cpython-37.pyc
+10_DatabasesInViewsRestructured/myproject/owners/__pycache__/forms.cpython-37.pyc
+10_DatabasesInViewsRestructured/myproject/owners/__pycache__/views.cpython-37.pyc
+10_DatabasesInViewsRestructured/myproject/puppies/__pycache__/forms.cpython-37.pyc
+10_DatabasesInViewsRestructured/myproject/puppies/__pycache__/views.cpython-37.pyc
