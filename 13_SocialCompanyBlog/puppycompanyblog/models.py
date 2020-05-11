@@ -46,7 +46,7 @@ class BlogPost(db.Model):
     def __init__(self, title, text, user_id):
         self.title = title
         self.text = text
-        selt.user_id = user_id
+        self.user_id = user_id
 
     def __repr__(self):
         return f"Post ID: {self.id} -- Date: {self.date} -- Title: {self.title}"
